@@ -1,4 +1,0 @@
-public stat avoid main 
-{
-
-}
